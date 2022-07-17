@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 💔دل ھڪـڙي😢درد ھـزار𝟐𝟎𝟏𝟏💔`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
